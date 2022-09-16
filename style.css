@@ -1,8 +1,12 @@
 h1{
     color: blue;
-    font-family: 'Ms Madi', cursive;
+    font-family: 'Ms Madi';
 }
 
 [disabled] {
     color: red;
+}
+
+#test01 button {
+    color: blue;
 }
