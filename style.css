@@ -47,3 +47,20 @@ p{
 #test01 button {
     color: blue;
 }
+
+.navbar {
+    background-color: #85c997;
+    box-sizing: border-box;
+    padding: 10px;
+}
+
+.navbar_icon{
+    background-color: #77bab2;
+    display: inline-block;
+}
+
+.navbar_item {
+    background-color: #a7ba77;
+    display: inline-block;
+}
+
