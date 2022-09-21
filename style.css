@@ -74,3 +74,7 @@ p{
     padding: 5px;
 }
 
+.navbar_item a{
+    text-decoration: none;
+}
+
