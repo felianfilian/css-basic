@@ -58,11 +58,13 @@ p{
     background-color: #77bab2;
     display: inline-block;
     font-size: 18px;
+    width: 25%;
 }
 
 .navbar_main{
     display: inline-block;
     margin: 5px 10px;
+    text-align: right;
     width: 70%;
 }
 
@@ -75,6 +77,8 @@ p{
 }
 
 .navbar_item a{
+    font-weight: bold;
     text-decoration: none;
+    vertical-align: middle;
 }
 
