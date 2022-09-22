@@ -82,3 +82,11 @@ p{
     vertical-align: middle;
 }
 
+.navbar_item a:hover{
+    color:aqua;
+}
+
+.navbar_item a:active{
+    color:#386beb;
+}
+
