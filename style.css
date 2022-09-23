@@ -92,8 +92,8 @@ p{
     color:#386beb;
 }
 
-.navbar_item a::first-letter{
-    color: #309390;
+.pseudo01::first-letter {
+    color: #88dbd8;
     font-weight: bold;
     font-size: 18px;
 }
