@@ -69,14 +69,16 @@ p{
 }
 
 .navbar_item {
-    background-color: #a7ba77;
+    background-color: #495c19;
     border: 2px solid black;
     display: inline-block;
     margin: 0px 10px;
-    padding: 5px;
+    padding: 10px;
 }
 
 .navbar_item a{
+    border-bottom: 3px solid white;
+    color: white;
     font-weight: bold;
     text-decoration: none;
     vertical-align: middle;
@@ -88,5 +90,11 @@ p{
 
 .navbar_item a:active{
     color:#386beb;
+}
+
+.navbar_item a::first-letter{
+    color: #309390;
+    font-weight: bold;
+    font-size: 18px;
 }
 
