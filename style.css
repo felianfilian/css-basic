@@ -36,6 +36,10 @@ p:not(.pseudo01) {
     font-style: italic;
 }
 
+p.pseudo01{
+    font-size: 20px;
+}
+
 #section02 {
     background-color: #e87e6b;
     color: white;
