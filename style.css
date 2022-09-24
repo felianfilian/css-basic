@@ -32,6 +32,10 @@ p{
     width: 100%
 }
 
+p:not(.pseudo01) {
+    font-style: italic;
+}
+
 #section02 {
     background-color: #e87e6b;
     color: white;
