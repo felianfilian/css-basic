@@ -37,7 +37,7 @@ p:not(.pseudo01) {
 }
 
 p.pseudo01{
-    font-size: 20px;
+    font-size: 20px !important;
 }
 
 #section02 {
