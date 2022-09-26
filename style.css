@@ -88,13 +88,17 @@ body {
 
 .plan_highlight {
     background-color: #6fa879;
-    box-shadow: 6px 6px 4px #4c8155;
+    box-shadow: 6px 6px 4px rgba(0, 0, 0, 0.5);
     color: white;
 
 }
 
 .plan_h1 {
-
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 6px 6px 4px rgb(0, 0, 0, 0.5);
+    color: #436c4a;
+    padding: 8px;
 }
 
 .product-overview {
