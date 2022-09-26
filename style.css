@@ -72,9 +72,20 @@ body {
     color:#386beb;
 }
 
+.plan {
+    background-color: #d5ffdc;
+    display: inline-block;
+    margin: 8px;
+    padding: 16px;
+    text-align: center;
+    width: 30%;
+}
+
 .pseudo01::first-letter {
     color: #88dbd8;
     font-weight: bold;
     font-size: 18px;
 }
+
+
 
