@@ -86,6 +86,17 @@ body {
     width: 31%;
 }
 
+.plan_highlight {
+    background-color: #6fa879;
+    box-shadow: 6px 6px 4px #4c8155;
+    color: white;
+
+}
+
+.plan_h1 {
+
+}
+
 .product-overview {
     height: 528px;
     margin: 0px auto;
