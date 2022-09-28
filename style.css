@@ -8,7 +8,7 @@ body {
 }
 
 #section01 {
-    background-color: #386beb;
+    background-image: url(freedom.jpg);
     box-sizing: border-box;
     color: white;
     margin-bottom: 20px;
@@ -112,11 +112,19 @@ body {
 }
 
 .plan_title {
-
+    color: #495c19;
 }
 
 .plan_price {
-    
+    color: rgb(159, 159, 159);
+}
+
+.plan_highlight .plan_title {
+    color: white;
+}
+
+.plan_highlight .plan_price {
+    color: #244f2f;
 }
 
 .product-overview {
