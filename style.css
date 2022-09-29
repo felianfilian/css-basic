@@ -87,6 +87,15 @@ body {
     width: 31%;
 }
 
+.plan_button {
+    background-color: #244f2f;
+    border: 2px solid black;
+    border-radius: 8px;
+    color: white;
+    font: inherit;
+    padding: 8px;
+}
+
 .plan_features{
     list-style: none;
     margin: 0px;
