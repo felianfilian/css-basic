@@ -11,6 +11,7 @@ body {
     background-image: url(freedom.jpg);
     box-sizing: border-box;
     color: white;
+    height: 528px;
     margin-bottom: 20px;
     padding: 10px;
     width: 100%
