@@ -8,7 +8,10 @@ body {
 }
 
 #section01 {
-    background-image: url(freedom.jpg);
+    background-image: url(images/zen01.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
     box-sizing: border-box;
     color: white;
     height: 528px;
