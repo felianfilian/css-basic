@@ -105,6 +105,10 @@ body {
     color: #244f2f;    
 }
 
+.plan_button:focus {
+    outline: none;
+}
+
 .plan_features{
     list-style: none;
     margin: 0px;
