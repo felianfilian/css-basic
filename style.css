@@ -9,7 +9,6 @@ body {
 
 #key_features {
     background-color: #f06059;
-    margin-top: 80px;
     padding: 16px;
 }
 
@@ -48,11 +47,22 @@ body {
 }
 
 .key_list {
-
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
 }
 
 .key_item {
-    
+    display: inline-block;
+    width: 30%;
+}
+
+.key_description {
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
 }
 
 .navbar {
@@ -173,8 +183,8 @@ body {
 }
 
 .product-overview {
-    height: 528px;
     margin: 0px auto;
+    margin-bottom: 20px;
     width: 100%;
 }
 
@@ -184,4 +194,6 @@ body {
     font-size: 18px;
 }
 
-
+.section_title {
+    color: #2ddf5c;
+}
