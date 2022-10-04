@@ -53,6 +53,15 @@ body {
     text-align: center;
 }
 
+.key_image {
+    background-color: #e6e6e6;
+    border: 2px solid #636363;
+    border-radius: 50%;
+    height: 128px;
+    margin: auto;
+    width: 128px;
+}
+
 .key_item {
     display: inline-block;
     width: 30%;
