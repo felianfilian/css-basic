@@ -63,6 +63,16 @@ body {
     margin: 0 16px;
 }
 
+.footer_li a {
+    color: white;
+    text-decoration: none;
+}
+
+.footer_li a:hover,
+.footer_li a:active {
+    color: #c0c0c0;
+}
+
 .key_list {
     list-style: none;
     margin: 0;
