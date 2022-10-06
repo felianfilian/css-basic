@@ -1,11 +1,4 @@
-* {
-    box-sizing: border-box;
-}
 
-body {
-    font-family: Arial;
-    margin: 0;
-}
 
 #key_features {
     background-color: #f06059;
@@ -46,32 +39,7 @@ body {
     color: blue;
 }
 
-.footer_main {
-    background-color: black;
-    padding: 32px;
-}
 
-.footer_ul {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-    text-align: center;
-}
-
-.footer_li {
-    display: inline-block;
-    margin: 0 16px;
-}
-
-.footer_li a {
-    color: white;
-    text-decoration: none;
-}
-
-.footer_li a:hover,
-.footer_li a:active {
-    color: #c0c0c0;
-}
 
 .key_list {
     list-style: none;
@@ -102,52 +70,6 @@ body {
     text-align: center;
 }
 
-.navbar {
-    background-color: #85c997;
-    box-sizing: border-box;
-    padding: 20px 20px;
-}
-
-.navbar_icon{
-    background-color: #77bab2;
-    display: inline-block;
-    font-size: 18px;
-    width: 25%;
-}
-
-.navbar_main{
-    display: inline-block;
-    margin: 5px 5px;
-    text-align: right;
-    width: 70%;
-}
-
-.navbar_item {
-    background-color: #495c19;
-    border: 2px solid black;
-    border-radius: 8px;
-    display: inline-block;
-    margin: 0px 5px;
-    min-width: 100px;
-    padding: 10px;
-    text-align: center;
-}
-
-.navbar_item a{
-    border-bottom: 3px solid white;
-    color: white;
-    font-weight: bold;
-    text-decoration: none;
-    vertical-align: middle;
-}
-
-.navbar_item a:hover{
-    color:aqua;
-}
-
-.navbar_item a:active{
-    color:#386beb;
-}
 
 .plan {
     background-color: #d5ffdc;
