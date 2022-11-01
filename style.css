@@ -1,158 +1,162 @@
-
-
 #key_features {
-    background-color: #f06059;
-    padding: 16px;
+  background-color: #f06059;
+  padding: 16px;
 }
 
 #key_features .section_title {
-    color: white;
-    margin: 16px;
+  color: white;
+  margin: 16px;
 }
 
 #section01 {
-    background-image: url(images/zen01.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center center;
-    box-sizing: border-box;
-    color: white;
-    height: 528px;
-    margin-bottom: 20px;
-    padding: 10px;
-    width: 100%
+  background-image: url(images/zen01.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  box-sizing: border-box;
+  color: white;
+  height: 528px;
+  margin-bottom: 20px;
+  margin-top: 80px;
+  padding: 10px;
+  width: 100%;
 }
 
 #section02 {
-    background-color: #e87e6b;
-    color: white;
-    margin: 20px;
-    padding: 10px;
+  background-color: #e87e6b;
+  color: white;
+  margin: 20px;
+  padding: 10px;
 }
 
-#test01{
-    background-color: #9ae6e4;
-    padding: 10px;
+#test01 {
+  background-color: #9ae6e4;
+  padding: 10px;
 }
 
 #test01 button {
-    color: blue;
+  color: blue;
 }
 
-
-
 .key_list {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-    text-align: center;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  text-align: center;
 }
 
 .key_image {
-    background-color: #e6e6e6;
-    border: 2px solid #636363;
-    border-radius: 50%;
-    height: 128px;
-    margin: auto;
-    width: 128px;
+  background-color: #e6e6e6;
+  border: 2px solid #636363;
+  border-radius: 50%;
+  height: 128px;
+  margin: auto;
+  width: 128px;
 }
 
 .key_item {
-    display: inline-block;
-    width: 30%;
-    vertical-align: top;
+  display: inline-block;
+  width: 30%;
+  vertical-align: top;
 }
 
 .key_description {
-    color: white;
-    font-size: 20px;
-    font-weight: bold;
-    text-align: center;
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
 }
 
-
 .plan {
-    background-color: #d5ffdc;
-    display: inline-block;
-    margin: 8px;
-    padding: 16px;
-    text-align: center;
-    vertical-align: middle;
-    width: 31%;
+  background-color: #d5ffdc;
+  display: inline-block;
+  margin: 8px;
+  padding: 16px;
+  text-align: center;
+  vertical-align: middle;
+  width: 31%;
 }
 
 .plan_button {
-    background-color: #244f2f;
-    border: 2px solid black;
-    border-radius: 8px;
-    color: white;
-    font: inherit;
-    padding: 8px;
+  background-color: #244f2f;
+  border: 2px solid black;
+  border-radius: 8px;
+  color: white;
+  font: inherit;
+  padding: 8px;
 }
 
 .plan_button:hover,
 .plan_button:active {
-    background-color: white;
-    color: #244f2f;    
+  background-color: white;
+  color: #244f2f;
 }
 
 .plan_button:focus {
-    outline: none;
+  outline: none;
 }
 
-.plan_features{
-    list-style: none;
-    margin: 0px;
-    padding: 0px;
+.plan_features {
+  list-style: none;
+  margin: 0px;
+  padding: 0px;
 }
 
 .plan_item {
-    margin: 8px 0px;
+  margin: 8px 0px;
 }
 
 .plan_highlight {
-    background-color: #6fa879;
-    box-shadow: 6px 6px 4px rgba(0, 0, 0, 0.5);
-    color: white;
-
+  background-color: #6fa879;
+  box-shadow: 6px 6px 4px rgba(0, 0, 0, 0.5);
+  color: white;
 }
 
 .plan_h1 {
-    background-color: white;
-    border-radius: 8px;
-    box-shadow: 6px 6px 4px rgb(0, 0, 0, 0.5);
-    color: #436c4a;
-    padding: 8px;
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 6px 6px 4px rgb(0, 0, 0, 0.5);
+  color: #436c4a;
+  padding: 8px;
 }
 
 .plan_title {
-    color: #495c19;
+  color: #495c19;
 }
 
 .plan_price {
-    color: rgb(159, 159, 159);
+  color: rgb(159, 159, 159);
 }
 
 .plan_highlight .plan_title {
-    color: white;
+  color: white;
 }
 
 .plan_highlight .plan_price {
-    color: #244f2f;
+  color: #244f2f;
 }
 
 .product-overview {
-    margin: 0px auto;
-    margin-bottom: 20px;
-    width: 100%;
+  margin: auto;
+  margin-bottom: 20px;
+  text-align: center;
+  width: 90%;
+}
+
+.product_title {
+  color: #495c19;
 }
 
 .pseudo01::first-letter {
-    color: #88dbd8;
-    font-weight: bold;
-    font-size: 18px;
+  color: #88dbd8;
+  font-weight: bold;
+  font-size: 18px;
 }
 
 .section_title {
-    color: #2ddf5c;
+  color: #2ddf5c;
+}
+
+.section01_title {
+  color: #fff;
 }

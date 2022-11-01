@@ -10,17 +10,21 @@ body {
 .navbar {
   background-color: #85c997;
   box-sizing: border-box;
+  margin: 0;
   padding: 20px 20px;
+  position: fixed;
+  top: 0%;
+  width: 100%;
 }
 
-.navbar_icon{
+.navbar_icon {
   background-color: #77bab2;
   display: inline-block;
   font-size: 18px;
   width: 25%;
 }
 
-.navbar_main{
+.navbar_main {
   display: inline-block;
   margin: 5px 5px;
   text-align: right;
@@ -38,7 +42,7 @@ body {
   text-align: center;
 }
 
-.navbar_item a{
+.navbar_item a {
   border-bottom: 3px solid white;
   color: white;
   font-weight: bold;
@@ -46,15 +50,13 @@ body {
   vertical-align: middle;
 }
 
-.navbar_item a:hover{
-  color:aqua;
+.navbar_item a:hover {
+  color: aqua;
 }
 
-.navbar_item a:active{
-  color:#386beb;
+.navbar_item a:active {
+  color: #386beb;
 }
-
-
 
 .footer_main {
   background-color: black;
